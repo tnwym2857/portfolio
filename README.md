@@ -1,8 +1,3 @@
-bash
-
-cat /home/claude/portfolio_README.md
-出力
-
 # エンジニアリング・データ分析ポートフォリオ
 
 製造業（生産管理・品質管理）約10年の実務経験と、独学で身につけたPython・データ分析・
